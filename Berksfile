@@ -2,7 +2,7 @@ source 'https://supermarket.chef.io'
 
 metadata
 
-cookbook 'chef_nginx'
+cookbook 'nginx'
 cookbook 'git'
 cookbook 'java'
 cookbook 'build-essential'
